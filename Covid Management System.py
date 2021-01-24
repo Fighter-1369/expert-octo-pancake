@@ -1,8 +1,8 @@
-#SOURCE CODE FOR Covid Management
+#SOURCE CODE FOR Covid19 Management
 
 print("****************************************************************************")
 print("*                                                                          *")
-print("*             Welcome to Covid Management System             *")
+print("*             Welcome to Covid Management System                           *")
 print("*                                                                          *")
 print("****************************************************************************")
 
